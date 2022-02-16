@@ -26,6 +26,8 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.3.13",
     "morgan": "^1.9.1",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0",
     "validator": "^10.9.0"
   },
   "devDependencies": {
